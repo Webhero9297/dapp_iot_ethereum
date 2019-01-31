@@ -93,15 +93,7 @@ and check that it all works, by accessing the frontend through [http://localhost
 ## Contributing
 Please refer to the [Contributing guidelines for this project](https://github.com/blockchain-IoT/blockchain-IoT-core/blob/master/CONTRIBUTING.md).
 
-## Communication
-Realtime communication happens on [Slack](https://blockchainiot.slack.com/open)
-
 Task communication happens here, through [Issues](https://github.com/blockchain-IoT/blockchain-IoT-core/issues). We use a Kanban board, available under the [Project](https://github.com/blockchain-IoT/blockchain-IoT-core/projects) tab.
-
-## Slack
-https://blockchainiot.slack.com/open
-
-If you did not get an invitation, please reach out to [Michal](https://github.com/michalmikolajczyk), michal.mikolajczyk at toptal.com
 
 ## Whitepaper draft
 https://docs.google.com/document/d/1QtdCi4zABw2B0t4zUHncf1yX2hFsMzpVlKlWgtVJi-w/edit#
